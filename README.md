@@ -1,5 +1,7 @@
 # Edutech Academy
 
+🌐 **Website:** https://edutech-academy.vercel.app/
+
 A modern technology education platform built with a focus on scalable frontend architecture, engineering principles, and a high-quality user experience.
 
 The project demonstrates modern web development practices including TypeScript development, component-driven architecture, performance optimization, testing workflows, and production deployment.
@@ -113,3 +115,4 @@ Create an optimized production build:
 
 npm run build
 npm start
+```
