@@ -1,4 +1,3 @@
-// src/hooks/useLenis.ts
 'use client'
 
 import { useEffect } from 'react'

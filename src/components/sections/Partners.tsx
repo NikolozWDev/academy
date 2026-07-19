@@ -1,4 +1,3 @@
-// src/components/sections/Partners.tsx
 import { Marquee } from '@/components/shared/Marquee'
 import { LOGO_ITEMS } from '@/constants/logos'
 

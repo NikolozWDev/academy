@@ -1,4 +1,3 @@
-// src/components/shared/ScrollRevealProvider.tsx
 'use client'
 
 import { useScrollReveal } from '@/hooks/useScrollReveal'

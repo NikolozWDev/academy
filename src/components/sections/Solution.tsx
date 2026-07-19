@@ -1,4 +1,3 @@
-// src/components/sections/Solution.tsx
 import { Marquee } from '@/components/shared/Marquee'
 import { SOLUTIONS_1, SOLUTIONS_2 } from '@/constants/solutions'
 

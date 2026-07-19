@@ -1,4 +1,3 @@
-// src/components/shared/ScrollToTop.tsx
 'use client'
 
 import { usePathname } from 'next/navigation'

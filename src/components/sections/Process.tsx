@@ -1,4 +1,3 @@
-// src/components/sections/Process.tsx
 import { ProcessIcon } from '@/components/icons/ProcessIcon'
 
 export function Process() {

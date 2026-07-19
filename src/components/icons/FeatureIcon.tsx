@@ -1,4 +1,3 @@
-// src/components/icons/FeatureIcon.tsx
 import React from 'react'
 
 const featureSvgs = [

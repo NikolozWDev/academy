@@ -1,4 +1,3 @@
-// src/components/icons/ProcessIcon.tsx
 import React from 'react'
 
 const processSvgs: Record<string, string> = {

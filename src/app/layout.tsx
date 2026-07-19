@@ -1,4 +1,3 @@
-// src/app/layout.tsx
 import '@/styles/globals.css'
 import Script from 'next/script'
 import { Navbar } from '@/components/layout/Navbar'
@@ -14,6 +13,9 @@ export const metadata = {
     default: 'Edutech — Tech Education for Professionals & Teams',
   },
   description: 'Edutech is a global tech academy helping corporates and professionals upskill…',
+  icons: {
+    icon: '/favicon.jfif',
+  },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

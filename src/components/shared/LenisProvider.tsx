@@ -1,4 +1,3 @@
-// src/components/shared/LenisProvider.tsx
 'use client'
 
 import { useLenis } from '@/hooks/useLenis'

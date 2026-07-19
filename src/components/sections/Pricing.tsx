@@ -1,4 +1,3 @@
-// src/components/sections/Pricing.tsx
 'use client'
 import { useState } from 'react'
 import { Marquee } from '@/components/shared/Marquee'

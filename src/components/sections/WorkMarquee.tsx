@@ -1,4 +1,3 @@
-// src/components/sections/WorkMarquee.tsx
 import { Marquee } from '@/components/shared/Marquee'
 import { WORK_MOCKUPS_1, WORK_MOCKUPS_2, WORK_MOCKUPS_3 } from '@/constants/workMockups'
 

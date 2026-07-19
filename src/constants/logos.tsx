@@ -1,4 +1,3 @@
-// src/constants/logos.tsx
 import React from 'react'
 
 const logoPaths: Record<string, string> = {

@@ -1,4 +1,3 @@
-// src/constants/trustLogos.tsx
 import React from 'react'
 
 const trustData = [

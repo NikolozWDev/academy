@@ -1,4 +1,3 @@
-// src/components/shared/PageTransitionProvider.tsx
 'use client'
 
 import { usePathname } from 'next/navigation'

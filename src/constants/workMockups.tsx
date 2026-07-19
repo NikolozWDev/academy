@@ -1,4 +1,3 @@
-// src/constants/workMockups.tsx
 
 const mockupStyle: React.CSSProperties = {
   flexShrink: 0,

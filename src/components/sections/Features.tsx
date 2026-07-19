@@ -1,4 +1,3 @@
-// src/components/sections/Features.tsx
 import { FeatureIcon } from '@/components/icons/FeatureIcon'
 
 export function Features() {
