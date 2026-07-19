@@ -24,7 +24,13 @@ jest.mock('@/components/shared/ScrollToTop', () => ({
   ScrollToTop: () => null,
 }))
 jest.mock('next/script', () => {
-  return ({ src, strategy }: { src: string; strategy: string }) => <script src={src} data-strategy={strategy} />
+  const MockScript = ({ src, strategy }: { src: string; strategy: string }) => (
+    <div data-testid="script" data-src={src} data-strategy={strategy} />
+  )
+
+  MockScript.displayName = 'MockScript'
+
+  return MockScript
 })
 
 describe('RootLayout', () => {

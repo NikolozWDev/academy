@@ -5,6 +5,12 @@ import { useEffect } from 'react'
 interface LenisInstance {
   raf: (time: number) => void
   destroy: () => void
+  scrollTo: (
+    target: number | string,
+    options?: {
+      immediate?: boolean
+    }
+  ) => void
 }
 
 declare global {
